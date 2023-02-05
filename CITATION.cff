@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: OmniReal
+message: Real omnidirectional image dataset for computer vision.
+type: dataset
+authors:
+  - given-names: Leandro
+    family-names: Bezerra Marinho
+    affiliation: IFCE
+    email: leandro.marinho@ifce.edu.br
+  - given-names: Suane
+    family-names: Pires Pinheiro da Silva
+    email: suanepires@lapisco.ifce.edu.br
+    affiliation: UFC
+  - given-names: Pedro
+    family-names: Pedrosa Rebouças
+    name-suffix: Filho
+    email: pedrosarf@ifce.edu.br
+    affiliation: IFCE
